@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MLDiva
 - 👀 My interests are Machine Learning and Python Software Development
-- 🌱 I’m currently doing a deep dive into Deep Learning
+- 💻 I’m currently doing a deep dive into Deep Learning
 - 📫 You can reach me at rebeccaanneblack[at]mac[dot]com
 
 <!---
