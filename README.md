@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MLDiva
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning and Python Software Development
 - 🌱 I’m currently learning Deep Learning
 - 📫 You can reach me at rebeccaanneblack[at]mac[dot]com
 
